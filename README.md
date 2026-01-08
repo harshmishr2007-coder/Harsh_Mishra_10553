@@ -74,4 +74,6 @@ The **Time Conversion Tool** is a beginner-friendly project that demonstrates ho
 
 ### 📌 Author
 **Student Project – C Programming**
+<img width="1920" height="1080" alt="Screenshot 2026-01-07 121153" src="https://github.com/user-attachments/assets/8a43794e-e2a5-41e3-841c-39d1d56eecda" />
+
 # Harsh_Mishra_10553
